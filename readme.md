@@ -7,12 +7,7 @@ date: 2021-02-23
 
 Mostly based on 'A new liberty', by Murray Rothbard
 
-# CONTENTS [4-TOC.html#pagevii]
-
-[Introduction by Llewellyn H. Rockwell, Jr.](#5-intro.html)
-
-[1. The Libertarian Heritage: The American Revolution and Classical
-Liberalism](#6-chap01.html)
+# CONTENTS
 
 [**Part I: The Libertarian Creed**](#7-part01.html)
 
@@ -53,140 +48,7 @@ Courts](#19-chap12.html)
 
 [Index](#25-index.html)
 
-# INTRODUCTION [5-intro.html#pageix]
-
-There are many varieties of libertarianism alive in the world today, but
-Rothbardianism remains the center of its intellectual gravity, its
-primary muse and conscience, its strategic and moral core, and the focal
-point of debate even when its name is not acknowledged. The reason is
-that Murray Rothbard was the creator of modern libertarianism, a
-political-ideological system that proposes a once-and-for-all escape
-from the trappings of left and right and their central plans for how
-state power should be used. Libertarianism is the radical alternative
-that says state power is unworkable and immoral.
-
-“Mr. Libertarian,” Murray N. Rothbard was called, and “The State’s
-Greatest Living Enemy.” He remains so. Yes, he had many predecessors
-from whom he drew: the whole of the classical-liberal tradition, the
-Austrian economists, the American antiwar tradition, and the
-natural-rights tradition. But it was he who put all these pieces
-together into a unified system that seems implausible at first but
-inevitable once it has been defined and defended by Rothbard. The
-individual pieces of the system are straightforward (self-ownership,
-strict property rights, free markets, antistate in every conceivable
-respect) but the implications are earthshaking.
-
-Once you are exposed to the complete picture—and *For a New Liberty* has
-been the leading means of exposure for more than a quarter of a
-century—you cannot forget it. It becomes the indispensable lens through
-which we can see events in the real world with the greatest possible
-clarity.
-
-This book more than any other explains why Rothbard seems to grow in
-stature every year (his influence has vastly risen since his death) and
-why Rothbardianism has so many enemies on the left, right, and center.
-Quite simply, the science of liberty that he brought into clear relief
-is as thrilling in the hope it creates for a free world as it is
-unforgiving of error. Its logical and moral consistency, together with
-its empirical-explanatory muscle, represents a threat to any
-intellectual vision that sets out to use the state to refashion the
-world according to some pre-programmed plan. And to the same extent it
-impresses the reader with a hopeful vision of what might be.
-
-Rothbard set out to write this book soon after he got a call from Tom
-Mandel, an editor at Macmillan who had seen an op-ed by Rothbard in the
-*New York Times* that appeared in the spring of 1971. It was the only
-commission Rothbard ever received from a commercial publishing house.
-Looking at the original manuscript, which is so consistent in its
-typeface and nearly complete after its first draft, it does seem that it
-was a nearly effortless joy for him to write. It is seamless,
-unrelenting, and energetic.
-
-The historical context illustrates a point often overlooked: modern
-libertarianism was born not in reaction to socialism or leftism—though
-it is certainly antileftist (as the term is commonly understood) and
-antisocialist. Rather, libertarianism in the American historical context
-came into being in response to the statism of conservatism and its
-selective celebration of a conservative-style central planning. American
-conservatives may not adore the welfare state or excessive business
-regulation but they appreciate power exercised in the name of
-nationalism, warfarism, “pro-family” policies, and invasion of personal
-liberty and privacy. In the post-LBJ period of American history, it has
-been Republican presidents more than Democratic ones who have been
-responsible for the largest expansions of executive and judicial power.
-It was to defend a pure liberty against the compromises and corruptions
-of conservatism—beginning with Nixon but continuing with Reagan and the
-Bush presidencies—that inspired the birth of Rothbardian political
-economy.
-
-It is also striking how Rothbard chose to pull no punches in his
-argument. Other intellectuals on the receiving end of such an invitation
-might have tended to water down the argument to make it more palatable.
-Why, for example, make a case for statelessness or anarchism when a case
-for limited government might bring more people into the movement? Why
-condemn U.S. imperialism when doing so can only limit the book’s appeal
-to anti-Soviet conservatives who might otherwise appreciate the
-free-market bent? Why go into such depth about privatizing courts and
-roads and water when doing so might risk alienating people? Why enter
-into the sticky area of regulation of consumption and of personal
-morality—and do it with such disorienting consistency—when it would have
-surely drawn a larger audience to leave it out? And why go into such
-detail about monetary affairs and central banking and the like when a
-watered-down case for free-enterprise would have pleased so many
-Chamber-of-Commerce conservatives?
-
-But trimming and compromising for the sake of the times or the audience
-was just not his way. He knew that he had a once-in-a-lifetime chance to
-present the full package of libertarianism in all its glory, and he was
-not about to pass it up. And thus do we read here: not just a case for
-cutting government but eliminating it altogether, not just an argument
-for assigning property rights but for deferring to the market even on
-questions of contract enforcement, and not just a case for cutting
-welfare but for banishing the entire welfare-warfare state.
-
-Whereas other attempts to make a libertarian case, both before and after
-this book, might typically call for transitional or half measures, or be
-willing to concede as much as possible to statists, that is not what we
-get from Murray. Not for him such schemes as school vouchers or the
-privatization of government programs that should not exist at all.
-Instead, he presents and follows through with the full-blown and fully
-bracing vision of what liberty can be. This is why so many other similar
-attempts to write the Libertarian Manifesto have not stood the test of
-time, and yet this book remains in high demand.
-
-Similarly, there have been many books on libertarianism in the
-intervening years that have covered philosophy alone, politics alone,
-economics alone, or history alone. Those that have put all these
-subjects together have usually been collections by various authors.
-Rothbard alone had mastery in all fields that permitted him to write an
-integrated manifesto—one that has never been displaced. And yet his
-approach is typically self-effacing: he constantly points to other
-writers and intellectuals of the past and his own generation.
-
-In addition, some introductions of this sort are written to give the
-reader an easier passage into a difficult book, but that is not the case
-here. He never talks down to his readers but always with clarity.
-Rothbard speaks for himself. I’ll spare the reader an enumeration of my
-favorite parts, or speculations on what passages Rothbard might have
-clarified if he had a chance to put out a new edition. The reader will
-discover on his or her own that every page exudes energy and passion,
-that the logic of his argument is impossibly compelling, and that the
-intellectual fire that inspired this work burns as bright now as it did
-all those years ago.
-
-The book is still regarded as “dangerous” precisely because, once the
-exposure to Rothbardianism takes place, no other book on politics,
-economics, or sociology can be read the same way again. What was once a
-commercial phenomenon has truly become a classical statement that I
-predict will be read for generations to come.
-
-Llewellyn H. Rockwell, Jr.
-
-*Auburn, Alabama*
-
-*July 6, 2005*
-
-# 1 THE LIBERTARIAN HERITAGE: THE AMERICAN REVOLUTION AND CLASSICAL LIBERALISM [6-chap01.html#page1]
+# 1 THE LIBERTARIAN HERITAGE: THE AMERICAN REVOLUTION AND CLASSICAL LIBERALISM
 
 On Election Day, 1976, the Libertarian party presidential ticket of
 Roger L. MacBride for President and David P. Bergland for Vice President
