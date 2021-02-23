@@ -1,33 +1,11 @@
-![](cover.jpg)
+---
+title: Nio-Libyrti
+date: 2021-02-23
+---
 
-# FOR A NEW LIBERTY [1-start.html#start]
+## Liberty, the only way
 
-## THE LIBERTARIAN MANIFESTO [the-libertarian-manifesto]
-
-SECOND EDITION
-
-MURRAY N. ROTHBARD
-
-![image](logo.jpg)
-
-![img](ebookTitlePageBanner.jpg)
-
-Copyright © 1973, 1978 by Murray N. Rothbard
-
-Copyright © 2006 by the Ludwig von Mises Institute
-
-All rights reserved. No part of this book may be reproduced in any
-manner whatsoever without written permission except in the case of
-reprints in the context of reviews. For information write the Ludwig von
-Mises Institute, 518 West Magnolia Avenue, Auburn, Alabama 36832.
-
-ISBN 13: 978-0-945466-47-5
-
-ISBN 10: 0-945466-47-1
-
-TO JOEY,
-
-still the indispensable framework
+Mostly based on 'A new liberty', by Murray Rothbard
 
 # CONTENTS [4-TOC.html#pagevii]
 
