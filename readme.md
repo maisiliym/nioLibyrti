@@ -9,7 +9,7 @@ Mostly based on 'A new liberty', by Murray Rothbard
 
 # CONTENTS
 
-[Property and Exchange](PropertyAndExchange.md)
+[Property and Exchange](./PropertyandExchange.md)
 
 [3. The State](#9-chap03.html)
 
