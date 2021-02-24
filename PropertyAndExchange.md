@@ -2,54 +2,25 @@
 title: Property and Exchange
 ---
 
-## THE NONAGGRESSION AXIOM [the-nonaggression-axiom]
+## The Nonaggression Axiom
 
-The libertarian creed rests upon one central axiom: that no man or group
-of men may aggress against the person or property of anyone else. This
-may be called the “nonaggression axiom.” “Aggression” is defined as the
-initiation of the use or threat of physical violence against the person
-or property of anyone else. Aggression is therefore synonymous with
-invasion.
+No man or group of men may aggress against the person or property of anyone
+else. This may be called the “nonaggression axiom.” “Aggression” is defined as
+the initiation of the use or threat of physical violence against the person or
+property of anyone else
 
 If no man may aggress against another; if, in short, everyone has the
-absolute right to be “free” from aggression, then this at once implies
-that the libertarian stands foursquare for what are generally known as
-“civil liberties”: the freedom to speak, publish, assemble, and to
-engage in such “victimless crimes” as pornography, sexual deviation, and
-prostitution (which the libertarian does not regard as “crimes” at all,
-since he defines a “crime” as violent invasion of someone else’s person
-or property). Furthermore, he regards conscription as slavery on a
-massive scale. And since war, especially modern war, entails the mass
-slaughter of civilians, the libertarian regards such conflicts as mass
-murder and therefore totally illegitimate.
+absolute right to be “free” from aggression, then this at once implies the
+freedom to speak, publish, assemble, and to engage in such “victimless
+crimes” as pornography, sexual deviation, and prostitution. Furthermore,
+conscription is slavery on a massive scale. And since war, especially
+modern war, entails the mass slaughter of civilians, it is mass murder and
+therefore totally illegitimate.
 
-All of these positions are now considered “leftist” on the contemporary
-ideological scale. On the other hand, since the libertarian also opposes
-invasion of the rights of private property, this also means that he just
-as emphatically opposes government interference with property rights or
-with the free-market economy through controls, regulations, subsidies,
-or prohibitions. For if every individual has the right to his own
-property without having to suffer aggressive depredation, then he also
-has the right to give away his property (bequest and inheritance) and to
-exchange it for the property of others (free contract and the free
-market economy) without interference. The libertarian favors the right
-to unrestricted private property and free exchange; hence, a system of
-“laissez-faire capitalism.”
-
-In current terminology again, the libertarian position on property and
-economics would be called “extreme right wing.” But the libertarian sees
-no inconsistency in being “leftist” on some issues and “rightist” on
-others. On the contrary, he sees his own position as virtually the
-*only* consistent one, consistent on behalf of the liberty of every
-individual. For how can the leftist be opposed to the violence of war
-and conscription while at the same time supporting the violence of
-taxation and government control? And how can the rightist trumpet his
-devotion to private property and free enterprise while at the same time
-favoring war, conscription, and the outlawing of noninvasive activities
-and practices that he deems immoral? And how can the rightist favor a
-free market while seeing nothing amiss in the vast subsidies,
-distortions, and unproductive inefficiencies involved in the
-military-industrial complex?
+If every individual has the right to his own property without having to
+suffer aggressive depredation, then he also has the right to give away his
+property (bequest and inheritance) and to exchange it for the property of
+others (free contract and the free market economy) without interference.
 
 While opposing any and all private or group aggression against the
 rights of person and property, the libertarian sees that throughout
