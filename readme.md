@@ -3,11 +3,11 @@ title: Nio-Libyrti
 date: 2021-02-23
 ---
 
-## Liberty, the only way
+# (Neo-Liberty)
 
 Mostly based on 'A new liberty', by Murray Rothbard
 
-# CONTENTS
+## CONTENTS
 
 [Property and Exchange](./PropertyAndExchange.md)
 
