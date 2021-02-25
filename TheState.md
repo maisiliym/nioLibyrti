@@ -1,265 +1,49 @@
-# 3 THE STATE [9-chap03.html#page55]
+# The State
 
-## THE STATE AS AGGRESSOR [the-state-as-aggressor]
+## The State as Aggressor
 
-The central thrust of libertarian thought, then, is to oppose any and
-all aggression against the property rights of individuals in their own
-persons and in the material objects they have voluntarily acquired.
-While individual and gangs of criminals are of course opposed, there is
-nothing unique here to the libertarian creed, since almost all persons
-and schools of thought oppose the exercise of random violence against
-persons and property.
+Almost all persons and schools of thought oppose the exercise of random
+violence against persons and property.
 
-There is, however, a difference of emphasis on the part of libertarians
-even in this universally accepted area of defending people against
-crime. In the libertarian society there would be no “district attorney”
-who prosecutes criminals in the name of a nonexistent “society,” even
-against the wishes of the victim of crime. The victim would himself
-decide whether to press charges. Furthermore, as another side to the
-same coin, in a libertarian world the victim would be able to press suit
-against a wrongdoer without having to convince the same district
-attorney that he should proceed. Moreover, in the system of criminal
-punishment in the libertarian world, the emphasis would never be, as it
-is now, on “society’s” jailing the criminal; the emphasis would
-necessarily be on compelling the criminal to make restitution to the
-victim of his crime. The present system, in which the victim is not
-recompensed but instead has to pay taxes to support the incarceration of
-his own attacker—would be evident nonsense in a world that focuses on
-the defense of property rights and therefore on the victim of crime.
+A “district attorney” prosecutes criminals in the name of a nonexistent
+“society,” even against the wishes of the victim of crime. It is the victim who
+must decide whether to press charges. Furthermore, the victim must be able to
+press suit against a wrongdoer without having to convince the same district
+attorney that he should proceed. The emphasis must never be on “society’s”
+jailing the criminal; the emphasis must necessarily be on compelling the
+criminal to make restitution to the victim of his crime. For the victim to pay
+taxes to support the incarceration of his own attacker is evident nonsense.
 
-Furthermore, while most libertarians are not pacifists, they would not
-join the present system in interfering with people’s *right* to be
-pacifists. Thus, suppose that Jones, a pacifist, is aggressed against by
-Smith, a criminal. If Jones, as the result of his beliefs, is against
-defending himself by the use of violence and is therefore opposed to any
-prosecution of crime, then Jones will simply fail to prosecute, and that
-will be the end of it. There will be no governmental machinery that
-pursues and tries criminals even against the wishes of the victim.
+There must be no governmental machinery that pursues and tries criminals even
+against the wishes of the victim.
 
-But the critical difference between libertarians and other people is not
-in the area of private crime; the critical difference is their view of
-the role of the State—the government. For libertarians regard the State
-as the supreme, the eternal, the best organized aggressor against the
+The State is the supreme, the eternal, the best organized aggressor against the
 persons and property of the mass of the public. *All* States everywhere,
-whether democratic, dictatorial, or monarchical, whether red, white,
-blue, or brown.
+whether democratic, dictatorial, or monarchical, whether red, white, blue, or
+turquoise.
 
-The State! Always and ever the government and its rulers and operators
-have been considered above the general moral law. The “Pentagon Papers”
-are only one recent instance among innumerable instances in history of
-men, most of whom are perfectly honorable in their private lives, who
-lie in their teeth before the public. Why? For “reasons of State.”
-Service to the State is supposed to excuse all actions that would be
-considered immoral or criminal if committed by “private” citizens. The
-distinctive feature of libertarians is that they coolly and
-uncompromisingly apply the general moral law to people acting in their
-roles as members of the State apparatus. Libertarians make no
-exceptions. For centuries, the State (or more strictly, individuals
-acting in their roles as “members of the government”) has cloaked its
-criminal activity in highsounding rhetoric. For centuries the State has
-committed mass murder and called it “war”; then ennobled the mass
-slaughter that “war” involves. For centuries the State has enslaved
-people into its armed battalions and called it “conscription” in the
-“national service.” For centuries the State has robbed people at bayonet
-point and called it “taxation.” In fact, if you wish to know how
-libertarians regard the State and any of its acts, simply think of the
-State as a criminal band, and all of the libertarian attitudes will
-logically fall into place.
+The State! Always and ever the government and its rulers and operators have
+been considered above the general moral law.  Service to the State is supposed
+to excuse all actions that would be considered immoral or criminal if committed
+by “private” citizens.  The law must be uncompromisingly applied to people
+acting in their roles as members of the State apparatus. For centuries,
+individuals acting in their roles as “members of the government” have cloaked
+their criminal activity in highsounding rhetoric. For centuries they have
+committed mass murder and called it “war”; then ennobled the mass slaughter
+that “war” involves. For centuries they have enslaved people into their armed
+battalions and called it “conscription” in the “national service.” For
+centuries they have robbed people at bayonet point and called it “taxation.”
 
-Let us consider, for example, what it is that sharply distinguishes
-government from all other organizations in society. Many political
-scientists and sociologists have blurred this vital distinction, and
-refer to all organizations and groups as hierarchical, structured,
-“governmental,” etc. Left-wing anarchists, for example, will oppose
-equally government *and* private organizations such as corporations on
-the ground that each is equally “elitist” and “coercive.” But the
-“rightist” libertarian is not opposed to inequality, and his concept of
-“coercion” applies only to the use of violence. The libertarian sees a
-crucial distinction between government, whether central, state, or
-local, and all other institutions in society. Or rather, two crucial
-distinctions. First, every other person or group receives its income by
-voluntary payment: either by voluntary contribution or gift (such as the
-local community chest or bridge club), *or* by voluntary purchase of its
-goods or services on the market (i.e., grocery store owner, baseball
-player, steel manufacturer, etc.). *Only* the government obtains its
-income by coercion and violence—i.e., by the direct threat of
-confiscation or imprisonment if payment is not forthcoming. This coerced
-levy is “taxation.” A second distinction is that, apart from criminal
-outlaws, *only* the government can use its funds to commit violence
-against its own or any other subjects; *only* the government can
-prohibit pornography, compel a religious observance, or put people in
-jail for selling goods at a higher price than the government deems fit.
-Both distinctions, of course, can be summed up as: only the government,
-in society, is empowered to aggress against the property rights of its
-subjects, whether to extract revenue, to impose its moral code, or to
-kill those with whom it disagrees. Furthermore, any and all governments,
-even the least despotic, have always obtained the bulk of their income
-from the coercive taxing power. And historically, by far the
-overwhelming portion of all enslavement and murder in the history of the
-world has come from the hands of government. And since we have seen that
-the central thrust of the libertarian is to oppose all aggression
-against the rights of person and property, the libertarian necessarily
-opposes the institution of the State as the inherent and overwhelmingly
-the most important enemy of those precious rights.
+No constitution can interpret or enforce itself; it must be interpreted by
+*men*. And if the ultimate power to interpret a constitution is given to the
+government’s own Supreme Court, then the inevitable tendency is for the Court
+to continue to place its imprimatur on ever-broader powers for its own
+government.
 
-There is another reason why State aggression has been far more important
-than private, a reason apart from the greater organization and central
-mobilizing of resources that the rulers of the State can impose. The
-reason is the absence of any check upon State depredation, a check that
-does exist when we have to worry about muggers or the Mafia. To guard
-against private criminals we have been able to turn to the State and its
-police; but who can guard us against the State itself? No one. For
-another critical distinction of the State is that it compels the
-monopolization of the service of protection; the State arrogates to
-itself a virtual monopoly of violence and of ultimate decision-making in
-society. If we don’t like the decisions of the State courts, for
-example, there are no other agencies of protection to which we may turn.
-
-It is true that, in the United States, at least, we have a constitution
-that imposes strict limits on some powers of government. But, as we have
-discovered in the past century, no constitution can interpret or enforce
-itself; it must be interpreted by *men*. And if the ultimate power to
-interpret a constitution is given to the government’s own Supreme Court,
-then the inevitable tendency is for the Court to continue to place its
-imprimatur on ever-broader powers for its own government. Furthermore,
-the highly touted “checks and balances” and “separation of powers” in
-the American government are flimsy indeed, since in the final analysis
-all of these divisions are part of the same government and are governed
-by the same set of rulers.
-
-One of America’s most brilliant political theorists, John C. Calhoun,
-wrote prophetically of the inherent tendency of a State to break through
-the limits of its written constitution:
-
-> A written constitution certainly has many and considerable advantages,
-> but it is a great mistake to suppose that the mere insertion of
-> provisions to restrict and limit the powers of the government, without
-> investing those for whose protection they are inserted with the means
-> of enforcing their observance, will be sufficient to prevent the major
-> and dominant party from abusing its powers. Being the party in
-> possession of the government, they will... be in favor of the powers
-> granted by the constitution and opposed to the restrictions intended
-> to limit them. As the major and dominant parties, they will have no
-> need of these restrictions for their protection. ...
->
-> The minor or weaker party on the contrary, would take the opposite
-> direction and regard them as essential to their protection against the
-> dominant party. ... But where there are no means by which they could
-> compel the major party to observe the restrictions, the only resort
-> left them would be a strict construction of the constitution. ... To
-> this the major party would oppose a liberal construction—one which
-> would give to the words of the grant the broadest meaning of which
-> they were susceptible. It would then be construction against
-> construction—the one to contract and the other to enlarge the powers
-> of the government to the utmost. But of what possible avail could the
-> strict construction of the minor party be, against the liberal
-> interpretation of the major, when the one would have all the powers of
-> the government to carry its construction into effect and the other be
-> deprived of all means of enforcing its construction? In a contest so
-> unequal, the result would not be doubtful. The party in favor of the
-> restrictions would be overpowered. ... The end of the contest would be
-> the subversion of the constitution... the restrictions would
-> ultimately be annulled and the government be converted into one of
-> unlimited powers.
->
-> Nor would the division of government into separate and, as it regards
-> each other, independent departments prevent this result... as each and
-> all the departments—and, of course, the entire government—would be
-> under the control of the numerical majority, it is too clear to
-> require explanation that a mere distribution of its powers among its
-> agents or representatives could do little or nothing to counteract its
-> tendency to oppression and abuse of
-> power.^[1](#24-notes.html#chap03_fn1)^
-
-But why worry about the weakness of limits on governmental power?
-Especially in a “democracy,” in the phrase so often used by American
-liberals in their heyday before the mid-1960s when doubts began to creep
-into the liberal utopia: “Are *we* not the government?” In the phrase
-“we are the government,” the useful collective term “we” has enabled an
-ideological camouflage to be thrown over the naked exploitative reality
-of political life. For if *we* truly *are* the government, then
-*anything* a government does to an individual is not only just and not
-tyrannical; it is also “voluntary” on the part of the individual
-concerned. If the government has incurred a huge public debt which must
-be paid by taxing one group on behalf of another, this reality of burden
-is conveniently obscured by blithely saying that “we owe it to
-ourselves” (but *who* are the “we” and *who* the “ourselves”?). If the
-government drafts a man, or even throws him into jail for dissident
-opinions, then he is only “doing it to himself” and therefore nothing
-improper has occurred. Under this reasoning, then, Jews murdered by the
-Nazi government were *not* murdered; they must have “committed suicide,”
-since they *were* the government (which was democratically chosen), and
-therefore anything the government did to them was only voluntary on
-their part. But there is no way out of such grotesqueries for those
-supporters of government who see the State merely as a benevolent and
-voluntary agent of the public.
-
-And so we must conclude that “we” are *not* the government; the
-government is *not* “us.” The government does not in any accurate sense
-“represent” the majority of the people, but even if it did, even if 90
-percent of the people decided to murder or enslave the other 10 percent,
-this would *still* be murder and slavery, and would not be voluntary
-suicide or enslavement on the part of the oppressed minority. Crime is
-crime, aggression against rights is aggression, no matter how many
-citizens agree to the oppression. There is nothing sacrosanct about the
-majority; the lynch mob, too, is the majority in its own domain.
-
-But while, as in the lynch mob, the majority can become actively
-tyrannical and aggressive, the normal and continuing condition of the
-State is *oligarchic* rule: rule by a coercive elite which has managed
-to gain control of the State machinery. There are two basic reasons for
-this: one is the inequality and division of labor inherent in the nature
-of man, which gives rise to an “Iron Law of Oligarchy” in all of man’s
-activities; and second is the parasitic nature of the State enterprise
-itself.
-
-We have said that the individualist is not an egalitarian. Part of the
-reason for this is the individualist’s insight into the vast diversity
-and individuality within mankind, a diversity that has the chance to
-flower and expand as civilization and living standards progress.
-Individuals differ in ability and in interest both within and between
-occupations; and hence, in all occupations and walks of life, whether it
-be steel production or the organization of a bridge club, leadership in
-the activity will inevitably be assumed by a relative handful of the
-most able and energetic, while the remaining majority will form
-themselves into rank-and-file followers. This truth applies to all
-activities, whether they are beneficial or malevolent (as in criminal
-organizations). Indeed, the discovery of the Iron Law of Oligarchy was
-made by the Italian sociologist Robert Michels, who found that the
-Social Democratic Party of Germany, despite its rhetorical commitment to
-egalitarianism, was rigidly oligarchical and hierarchical in its actual
-functioning.
-
-A second basic reason for the oligarchic rule of the State is its
-parasitic nature—the fact that it lives coercively off the production of
-the citizenry. To be successful to its practitioners, the fruits of
-parasitic exploitation must be confined to a relative minority,
-otherwise a meaningless plunder of all by all would result in no gains
-for anyone. Nowhere has the coercive and parasitic nature of the State
-been more clearly limned than by the great late nineteenth-century
-German sociologist, Franz Oppenheimer. Oppenheimer pointed out that
-there are two and only two mutually exclusive means for man to obtain
-wealth. One, the method of production and voluntary exchange, the method
-of the free market, Oppenheimer termed the “economic means”; the other,
-the method of robbery by the use of violence, he called the “political
-means.” The political means is clearly parasitic, for it requires
-previous production for the exploiters to confiscate, and it subtracts
-from instead of adding to the total production in society. Oppenheimer
-then proceeded to define the State as the “organization of the political
-means”—the systematization of the predatory process over a given
-territorial area.^[2](#24-notes.html#chap03_fn2)^
-
-In short, private crime is, at best, sporadic and uncertain; the
-parasitism is ephemeral, and the coercive, parasitic lifeline can be cut
-at any time by the resistance of the victims. The State provides a
-legal, orderly, systematic channel for predation on the property of the
-producers; it makes certain, secure, and relatively “peaceful” the
-lifeline of the parasitic caste in society. The great libertarian writer
-Albert Jay Nock wrote vividly that “the State claims and exercises the
-monopoly of crime. ... It forbids private murder, but itself organizes
-murder on a colossal scale. It punishes private theft, but itself lays
-unscrupulous hands on anything it wants, whether the property of citizen
-or of alien.”^[3](#24-notes.html#chap03_fn3)^
+Even if 90 percent of the people decided to murder or enslave the other 10
+percent, this would *still* be murder and slavery. Crime is crime, aggression
+against rights is aggression, no matter how many citizens agree to the
+oppression. There is nothing sacrosanct about the majority.
 
 At first, of course, it is startling for someone to consider taxation as
 robbery, and therefore government as a band of robbers. But anyone who
